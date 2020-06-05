@@ -39,8 +39,8 @@ A. Mozart](https://www.youtube.com/watch?v=dNbqRC4xtEg)</span> oder
 v. Beethoven](https://www.youtube.com/watch?v=o5dL-65mKe0)</span>.
 
 {% include _figure.html
-   link="../images/jet.png"
-   caption="Brigitte Reuter, o.T., 70cm ✕ 70cm,<br /> Öl auf Leinwand (2009)"
+   link="../images/jet_thumb.jpg"
+   caption="Brigitte Reuter, o.T., 70cm ✕ 70cm,<br /> Öl auf Leinwand"
    figstyle="float:right"
 %}
 
