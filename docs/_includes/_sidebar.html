@@ -1,0 +1,41 @@
+
+        <!-- TODO: Bread Crumb Navigation
+             <a href="/">{{ page.title | default: site.title }}</a>
+        -->
+        <div class="left-sidebar">
+          <div class="branding-area" style="padding-top:10px">
+            <span class="name" style="padding-left:85px">Brigitte</span><br />
+            <span class="name" style="padding-left:65px">Reuter</span>
+          </div>
+{% if page_base != '/' %}
+          <nav class="page-nav">
+{% for nav_item in site.data.navigator.entries %}
+{% if nav_item.url == norm_page_base %}
+            <div class="active-nav">
+              <span>{{ nav_item.title[lang] }}</span>
+            </div>
+{% else %}
+            <div class="inactive-nav">
+              <a href="{{ nav_item.url }}">{{ nav_item.title[lang] }}</a>
+            </div>
+{% endif %}
+{% endfor %}
+          </nav>
+{% endif %}
+          <div id="sidebar-footer">
+            <p>
+              <a href="https://validator.w3.org/check?uri=referer">
+                Nu HTML Check
+              </a>
+              <a href="https://jigsaw.w3.org/css-validator/check/referer">
+                <img style="border:0;width:88px;height:31px"
+                     src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+                     alt="Valid CSS!" />
+              </a>
+            </p>
+            <p>
+              {{ site.data.i18n.entries["siteLastUpdate"][lang] }}<br />
+              {{ site.time }}
+            </p>
+          </div>
+        </div>

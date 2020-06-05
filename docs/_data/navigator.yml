@@ -1,0 +1,13 @@
+navigator_title:
+  "en": Contents
+  "de": Inhalt
+entries:
+- url: index.html
+  title:
+    "de": "Vorwort"
+- url: abstract.html
+  title:
+    "de": "Abstraktionen"
+- url: imprint.html
+  title:
+    "de": "Impressum"
