@@ -21,6 +21,19 @@ sich, soweit bekannt und sofern noch existent, in Privatbesitz und
 werden hier lediglich zur Dokumentation gezeigt, jedoch nicht zum
 Ankauf angeboten.
 
+## Bildnachweis
+
+Das Urheberrecht aller intern verlinkten Bilder, also solche, die als
+Kopien auf dieser Website liegen (gekennzeichnet durch das Symbol 🔗),
+liegt, wenn nicht ausdrücklich anders angegeben, bei mir bzw.  einem
+unmittelbar mit mir verwandten Mitglied meiner Familie (in der Regel
+meinem Vater).  Verlinkungen auf externe Bildquellen sind mit dem
+Symbol <img src="../images/external-link.svg" /> gekennzeichnet.  Bei
+Symbolbildern („Icons“) wird aus Gründen des Layouts ggf. auf die
+Kennzeichnung als interner oder externer Link verzichtet; die Quelle
+ist in diesen Fällen aus dem HTML/CSS-Code ersichtlich und kann in
+gängigen Browsern über die Bildinformation angezeigt werden.
+
 ## Haftungsausschluss
 
 Die auf dieser Website veröffentlichten Informationen habe ich nach
