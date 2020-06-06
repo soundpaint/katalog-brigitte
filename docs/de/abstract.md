@@ -1,12 +1,11 @@
 ---
 keywords: "Abstraktionen"
 description: Abstraktionen
+title: Abstraktionen
 ---
 
 {% include _init_page_variables.html %}
 {% assign fig-count = 0 %}
-
-# Abstraktionen
 
 {% include _figure.html
    link="../images/water_thumb.jpg"

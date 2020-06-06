@@ -1,12 +1,11 @@
 ---
 keywords: "Vorwort, Einstiegsseite"
 description: Vorwort
+title: Vorwort
 ---
 
 {% include _init_page_variables.html %}
 {% assign fig-count = 0 %}
-
-# Vorwort
 
 <blockquote class="light">
   <p>„Und so komme ich zu der Einsicht, dass es keine wahre abstrakte

@@ -1,9 +1,8 @@
 ---
 keywords: "Impressum, Kontakt"
 description: Impressum
+title: Impressum
 ---
-
-# Impressum
 
 ## Verantwortlich für den Inhalt (gemäß §5 TMG):
 
