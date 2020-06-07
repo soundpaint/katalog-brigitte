@@ -17,7 +17,7 @@ title: Abstraktionen
 
 Aufgewühltes Wasser mit angedeuteten Schaumkronen und bewegte
 Wolkenformationen, durch die sich am entfernten Horizont das Licht der
-Sonne ihren Weg bricht.  Oder doch unten auch Wolken, wie bei einem
+Sonne ihren Weg bricht?  Oder doch unten auch Wolken, wie bei einem
 Blick aus einem Flugzeug?  Letztlich sind es nur Pinselstriche in
 einer Vielzahl verschiedener Blautöne zwischen Grau und Weiß und einem
 kaum wahrnehmbaren Hauch an Rottönen, sowie wiederkehrenden Strukturen
@@ -61,9 +61,10 @@ fliegenden Gesteinsbrocken erinnert.
   Jubiläums der internationalen Luftfahrtausstellung"
   figstyle="float:right;width:15%" %}
 
-Vor dieser surreal und bedrohlich anmutenden Kulisse steuert ein sehr
-real wirkender Düsenjet in schräger Fluglage direkt auf den Betrachter
-zu, so, als wolle er der drohenden Gefahr entfliehen.
+Vor dieser surreal und bedrohlich anmutenden Kulisse steuert ein im
+Vergleich sehr realistisch gemalter Düsenjet in schräger Fluglage
+direkt auf den Betrachter zu, so, als wolle er der drohenden Gefahr
+entfliehen.
 
 Das Bild entstand nach der Genesung von einer schweren Erkrankung in
 den frühen 2000er Jahren.  Der Düsenjet wurde später in das Bild
