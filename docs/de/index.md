@@ -39,6 +39,7 @@ v. Beethoven](https://www.youtube.com/watch?v=o5dL-65mKe0)</span>.
 
 {% include _figure.html
    link="../images/jet_thumb.jpg"
+   ext_link="https://photos.google.com/share/AF1QipM8ftxnUSnhymM1nAO8zRiJKxo39805vGoU1jkPaVd2q7X0sP9FGUgdO4lWZ-35Ow/photo/AF1QipNOWuy25LuFWHSklf0yZE4cwinFX3ffqpRLDCfI?key=UnZUR2hyUWlhd0lNRHJrcEJNd0dCb2llajNCZEVB"
    caption="Brigitte Reuter, o.T., 70cm ✕ 70cm,<br /> Öl auf Leinwand"
    figstyle="float:right"
 %}
